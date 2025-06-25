@@ -16,7 +16,7 @@ Me encanta crear, aprender y mejorar cada día. Actualmente trabajo principalmen
 
 - ✨ Profundizar en **JavaScript avanzado** y **Angular**
 - ✨ Mejorar mis habilidades con **Git**
-- ✨ Explorar otros lenguajes y frameworks nuevos como **Node.js** o **TypeScript** 🌿
+- ✨ Explorar otros lenguajes y frameworks nuevos como **Python** o **TypeScript** 🌿
 
 ## 📈 Mis estadísticas de GitHub 📊
 
