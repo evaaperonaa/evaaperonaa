@@ -1,9 +1,9 @@
 # ¡Hola, soy Eva! 👩‍💻💙
 
-✨ Desarrolladora con curiosidad infinita por el código y la tecnología ✨  
-Me encanta crear, aprender y mejorar cada día. Actualmente trabajo principalmente con **PHP**, **JavaScript**, **Angular** y **Git**, pero siempre con ganas de descubrir nuevos lenguajes y herramientas. 🚀
+He estudiado y trabajado con **PHP**, **JavaScript**, **Angular** y **Git**, lo que me ha dado una base sólida en el desarrollo y las buenas prácticas.  
+Actualmente, mi interés está enfocado en el mundo de la **ciberseguridad**, en especial en **Penetration Testing** y **Red Team**, áreas en las que estoy profundizando y mejorando cada día. 
 
-## 💻 Tecnologías y herramientas favoritas 🛠️
+## 💻 Tecnologías y herramientas aprendidas 🛠️
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,9 +14,14 @@ Me encanta crear, aprender y mejorar cada día. Actualmente trabajo principalmen
 
 ## 🌱 Actualmente aprendiendo 📚
 
-- ✨ Profundizar en **JavaScript avanzado** y **Angular**
-- ✨ Mejorar mis habilidades con **Git**
-- ✨ Explorar otros lenguajes y frameworks nuevos como **Python** o **TypeScript** 🌿
+- ✨ Ciberseguridad ofensiva  
+- ✨ **Penetration testing**  
+- ✨ **Red team** y técnicas avanzadas de ataque/defensa  
+- ✨ Herramientas como **Burp Suite, Metasploit, Nmap, Wireshark** y más 🔍  
+
+## 🛡️ Mi progreso en ciberseguridad ⚡
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/evaaperonaa.png" alt="Your Image Badge" />
 
 ## 📈 Mis estadísticas de GitHub 📊
 
@@ -26,7 +31,6 @@ Me encanta crear, aprender y mejorar cada día. Actualmente trabajo principalmen
 
 ## 📱 Puedes encontrarme aquí 🐦📸
 
-[![Instagram](https://img.shields.io/badge/@evaaperonaa-3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evaaperonaa)
-[![Twitter](https://img.shields.io/badge/@evaaperonaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evaaperonaa)
+[![Instagram](https://img.shields.io/badge/@evaaperonaa-3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evaaperonaa)  
+[![Twitter](https://img.shields.io/badge/@evaaperonaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evaaperonaa)  
 
-🌿 **Gracias por visitar mi perfil** y compartir este pequeño rincón de código conmigo 🌸✨
