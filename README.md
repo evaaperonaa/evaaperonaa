@@ -1,36 +1,59 @@
-# ¡Hola, soy Eva! 👩‍💻💙
+<h1 align="center" style="color:#4da6ff;">Welcome to my Profile 💙✨</h1>
 
-He estudiado y trabajado con **PHP**, **JavaScript**, **Angular** y **Git**, lo que me ha dado una base sólida en el desarrollo y las buenas prácticas.  
-Actualmente, mi interés está enfocado en el mundo de la **ciberseguridad**, en especial en **Penetration Testing** y **Red Team**, áreas en las que estoy profundizando y mejorando cada día. 
+<p align="center">
+  <strong>Offensive Security • Penetration Testing • Red Team • Frontend</strong>
+</p>
 
-## 💻 Tecnologías y herramientas aprendidas 🛠️
+<!-- GIF azul aquí -->
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="140">
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## 🌱 Actualmente aprendiendo 📚
+## 🔹 Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0a3d62?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-1e3799?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-3c6382?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-0c2461?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-0a3d62?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-1e3799?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-4a69bd?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-0c2461?style=for-the-badge&logo=metasploit&logoColor=lightblue"/>
+  <img src="https://img.shields.io/badge/Git-3c6382?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-4da6ff?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-- ✨ Ciberseguridad ofensiva  
-- ✨ **Penetration testing**  
-- ✨ **Red team** y técnicas avanzadas de ataque/defensa  
-- ✨ Herramientas como **Burp Suite, Metasploit, Nmap, Wireshark** y más 🔍  
+---
 
-## 🛡️ Mi progreso en ciberseguridad ⚡
+## 🔹 Cybersecurity Journey
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/evaaperonaa.png" alt="TryHackMe Badge">
+</p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/evaaperonaa.png" alt="Your Image Badge" />
+---
 
-## 📈 Mis estadísticas de GitHub 📊
+## 🔹 GitHub Stats
+<div align="center">
 
-| Estadísticas | Lenguajes más usados |
-| --- | --- |
-| ![Eva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evaaperonaa&show_icons=true&theme=blueberry) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaaperonaa&layout=compact&theme=blueberry) |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=evaaperonaa&show_icons=true&theme=tokyonight&hide_title=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaaperonaa&layout=compact&theme=tokyonight"/>
 
-## 📱 Puedes encontrarme aquí 🐦📸
+</div>
 
-[![Instagram](https://img.shields.io/badge/@evaaperonaa-3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evaaperonaa)  
-[![Twitter](https://img.shields.io/badge/@evaaperonaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evaaperonaa)  
+---
 
+## 🔹 Find Me
+<p align="center">
+  <a href="https://www.instagram.com/evaaperonaa">
+    <img src="https://img.shields.io/badge/Instagram-4da6ff?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/evaaperonaa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💙 Crafted in blue tones, with passion for cybersecurity 💙</p>
