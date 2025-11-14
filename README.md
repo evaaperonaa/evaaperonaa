@@ -56,4 +56,4 @@
 
 ---
 
-<p align="center">💙 Crafted in blue tones, with passion for cybersecurity 💙</p>
+***Built with ♥ and a touch of blue by [Evly](https://github.com/evaaperonaa)***
