@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#4da6ff;">Welcome to my Profile 💙✨</h1>
 
 <p align="center">
-  <strong>Offensive Security • Penetration Testing • Red Team • Frontend</strong>
+  <strong>Web Design • Penetration Testing • Red Team • Offensive Security</strong>
 </p>
 
 <!-- GIF azul aquí -->
