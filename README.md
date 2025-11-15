@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#4da6ff;">Welcome to my Profile 💙✨</h1>
+<h1 align="center" style="color:#4da6ff;">Hi There! 💙✨</h1>
 
 <p align="center">
   <strong>Web Design • Penetration Testing • Red Team • Cibersecurity Student</strong>
