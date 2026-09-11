@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#4da6ff;">Hi There! 💙✨</h1>
 
 <p align="center">
-  <strong>Web Design • Penetration Testing • Red Team • Cibersecurity Student</strong>
+  <strong>Web Design • Penetration Testing • Red Team • Cybersecurity Student</strong>
 </p>
 
 <!-- GIF azul aquí -->
